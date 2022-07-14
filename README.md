@@ -6,4 +6,10 @@
 
 #  Suwonza123
 [Facebook]: https://www.facebook.com/suwonza123
-### thakyou Jekyll Themes
+#### ช่องทางติดตาม BorntoDev
+
+| ลำดับที่ | ช่องทางติดตาม | ลิงก์ของแต่ละช่องทาง |
+| :---- | :----: | ----: |
+| 1 | Facebook | https://suwonza123|
+| 10 | YouTube | https://suwonza123
+### thakyou Jekyll Themes 
