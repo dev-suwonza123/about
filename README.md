@@ -8,8 +8,6 @@
   <h1> Suwonza123 </h1>
 </center>
 
-#### ช่องทางติดตาม Suwon
-
 | ช่องทางการติดตาม | ลิงค์ช่องทางติดตาม |
 | --------- | ---------- |
 |   github   |    [dev-suwonza123](https://github.com/dev-suwonza123)   |
