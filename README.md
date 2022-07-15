@@ -6,10 +6,10 @@
 
 #  Suwonza123
 [Facebook]: https://www.facebook.com/suwonza123
-#### ช่องทางติดตาม BorntoDev
+#### ช่องทางติดตาม Suwon
 
 | ลำดับที่ | ช่องทางติดตาม | ลิงก์ของแต่ละช่องทาง |
 | :---- | :----: | ----: |
-| 1 | github | https://github.com/dev-suwonza123|
-| 10 | dev.to | dev-suwonza123|
+| 1 | github | https://github.com/dev-suwonza123 |
+| 2 | dev.to | https://dev.to/kdfreemob.com |
 ### thakyou Jekyll Themes 
