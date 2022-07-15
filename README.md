@@ -10,7 +10,7 @@
 
 #### ช่องทางติดตาม Suwon
 
-| หัวเรื่องแรก | หัวเรื่องที่สอง |
+| ช่องทางการติดตาม | ลิงค์ช่องทางติดตาม |
 | --------- | ---------- |
 |   github   |    [dev-suwonza123](https://github.com/dev-suwonza123)   |
 |   tweter   |    [Madgood4](https://twitter.com/Madgood4)   |
