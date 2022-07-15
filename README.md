@@ -8,10 +8,11 @@
 
 #### ช่องทางติดตาม Suwon
 
-| ช่องทางติดตาม | ลิงก์ของแต่ละช่องทาง |
-| :----: | :----: | :----: |
-| github | [github](https://github.com/dev-suwonza123)|
-| dev.to | [devto](https://dev.to/kdfreemob.com)|
-| tweter | [twiter](https://twitter.com/Madgood4)|
+| หัวเรื่องแรก | หัวเรื่องที่สอง |
+| --------- | ---------- |
+|   github   |    [github](https://github.com/dev-suwonza123)   |
+|   tweter   |    [twiter](https://twitter.com/Madgood4)   |
+|   dev.to   |    [devto](https://dev.to/kdfreemob.com)   |
+|   website   |    [abot me](https://app.onetrustme.com)   |
 
 ### พบกับหน้านี้ได้ที่  [abot me](https://app.onetrustme.com)
