@@ -14,6 +14,7 @@
 |   twiter   |    [Madgood4](https://twitter.com/Madgood4)   |
 |   dev.to   |    [kdfreemob](https://dev.to/kdfreemob.com)   |
 |   website   |    [onetrustme](https://app.onetrustme.com)   |
-|  blockdit   |    [https://www.blockdit.com/suwon](suwon)     |
-|  postman    |    [https://www.postman.com/91md](91md)
+|  blockdit   |    [suwon]([suwon](https://www.blockdit.com/suwon))     |
+|  postman    |    [91md](https://www.postman.com/91md)  |
+
 ### พบกับหน้านี้ได้ที่  [abot me](https://app.onetrustme.com)
