@@ -1,8 +1,8 @@
 ## Welcome to เส้นทางการสร้างแอพ 
 
-### react,html
+### คุณจะพบเส้นทางที่แสนวุ่นวาย
 
-เส้นทางการเรียนรู้ของฉัน ก้าวต่อไป
+ประสบการณ์ คือการเรียนรู้
 
 #  Suwonza123
 
@@ -13,4 +13,4 @@
 | 1 | github | https://github.com/dev-suwonza123 |
 | 2 | dev.to | https://dev.to/kdfreemob.com |
 | 3 | tweter | https://twitter.com/Madgood4 |
-### thakyou Jekyll Themes 
+### พบกับหน้านี้ได้ที่ https://app.onetrustme.com 
