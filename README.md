@@ -10,6 +10,6 @@
 
 | ลำดับที่ | ช่องทางติดตาม | ลิงก์ของแต่ละช่องทาง |
 | :---- | :----: | ----: |
-| 1 | Facebook | https://suwonza123|
-| 10 | YouTube | https://suwonza123
+| 1 | github | https://github.com/dev-suwonza123|
+| 10 | dev.to | dev-suwonza123|
 ### thakyou Jekyll Themes 
