@@ -10,8 +10,8 @@
 
 | ช่องทางการติดตาม | ลิงค์ช่องทางติดตาม |
 | --------- | ---------- |
-|   github   |    [dev-suwonza123](https://github.com/dev-suwonza123)   |
-|   twiter   |    [Madgood4](https://twitter.com/Madgood4)   |
+|   github   |    [dev-suwonza123](https://github.com/dev-suwonza123)   |  การใชภาษา  มาร์ก |
+|   twiter   |    [Madgood4](https://twitter.com/Madgood4)   |            
 |   dev.to   |    [kdfreemob](https://dev.to/kdfreemob.com)   |
 |   website   |    [onetrustme](https://app.onetrustme.com)   |
 |  blockdit   |    [suwon](https://www.blockdit.com/suwon) |
